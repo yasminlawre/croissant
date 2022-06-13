@@ -1,3 +1,23 @@
-h1 {
+body {
+  background-color: rgb(121, 194, 208);
+}
+
+h1,
+p,
+footer {
   text-align: center;
+  display: block;
+  color: aliceblue;
+}
+
+footer a {
+  margin: 0 10px;
+  color: aliceblue;
+}
+
+img {
+  max-width: 100%;
+  border-radius: 10px;
+  display: block;
+  margin: 30px auto;
 }
