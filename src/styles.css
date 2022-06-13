@@ -9,6 +9,9 @@ footer {
   display: block;
   color: aliceblue;
 }
+p a {
+  color: aliceblue;
+}
 
 footer a {
   margin: 0 10px;
